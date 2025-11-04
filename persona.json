@@ -1,0 +1,38 @@
+{
+    "personas":"Mi familia",
+    "Lista":
+    [
+        {
+            "Nombre":"Lucia",
+            "numerof":17,
+            "trabajo":false,
+            "Nacimiento":"2008-02-19"
+        },
+        {
+            "Nombre":"Ailin",
+            "numerof":19,
+            "trabajo":false,
+            "Nacimiento":"2004-03-31"
+        },
+        {
+            "Nombre":"Ayelen",
+            "numerof":23,
+            "trabajo":true,
+            "Nacimiento":"2000-07-13"
+        },
+
+        {
+            "Nombre":"Belen",
+            "numerof":5,
+            "trabajo":false,
+            "Nacimiento":"2017-04-15"
+        },
+
+        {
+            "Nombre":"Nora",
+            "numerof":1,
+            "trabajo":false,
+            "Nacimiento":"2019-04-22"
+        }
+    ]
+}
